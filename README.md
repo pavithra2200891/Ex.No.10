@@ -1,8 +1,8 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+## Date:04.10.2025
+## Reg. No.212222050043
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
@@ -49,12 +49,114 @@ content generation scenarios:
 11.	How to Build an E-commerce Website
 12.	Social Issue Awareness Campaign
 13.	Artificial Intelligence Impact on Healthcare
+
+## Test Case Scenarios & Outputs
+Scenario 1: Business Report on Market Trends
+
+First Draft (Basic Prompt):
+“Write a report on global market trends.”
+
+Output:
+General overview mentioning growth in AI, renewable energy, and e-commerce.
+
+Refined Content (Advanced Prompt):
+“Write a structured business report on 2025 market trends, focusing on technology, renewable energy, and e-commerce. Use subheadings, include insights, and maintain a formal tone.”
+
+Output:
+
+Technology Trends: AI adoption, cloud services expansion, cybersecurity investments.
+
+Renewable Energy: Rapid growth in solar and wind power due to supportive policies.
+
+E-commerce: Increasing cross-border trade, personalized shopping, and mobile commerce.
+
+Final Version:
+Polished report with professional tone, sector-wise breakdown, and clear insights into market growth drivers.
+
+Scenario 2: Creative Writing – Sci-Fi Short Story
+
+First Draft (Basic Prompt):
+“Write a short sci-fi story.”
+
+Output:
+A simple story about humans colonizing Mars.
+
+Refined Content (Advanced Prompt):
+“Write a 500-word sci-fi short story about astronauts discovering alien technology on Mars. Focus on suspense, vivid descriptions, and emotional dialogue.”
+
+Output:
+Detailed narrative with characters, suspenseful discovery of alien ruins, and conflict among astronauts.
+
+Final Version:
+A compelling story with strong world-building, well-developed characters, suspenseful pacing, and an open-ended conclusion hinting at alien contact.
+
+
 ## Instructions:
 1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
 2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
 3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
 4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
 5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
+
+
+## Output
+1. Select a Topic
+
+Chosen Topic: Article on Climate Change
+
+2. Use Basic Prompts
+
+Prompt: “Write an article on climate change.”
+
+Output (First Draft):
+Climate change is the long-term alteration of Earth’s climate due to natural processes and human activities. Rising global temperatures, melting ice caps, and extreme weather events are major consequences. Human actions like burning fossil fuels, deforestation, and industrialization are increasing greenhouse gases, leading to global warming.
+
+3. Refine Your Prompts
+
+Prompt (Refined with Answer Engineering + Decision Making):
+“Write a structured article on climate change with the following sections: Introduction, Causes, Effects, and Solutions. Use simple language suitable for educational purposes.”
+
+Output (Refined Draft):
+
+Introduction: Climate change refers to long-term shifts in temperature and weather patterns, largely caused by human activities.
+
+Causes: Fossil fuel burning, deforestation, and industrialization release greenhouse gases like CO₂ and methane.
+
+Effects: Rising sea levels, frequent floods, droughts, heatwaves, and loss of biodiversity.
+
+Solutions: Use of renewable energy, afforestation, waste reduction, and international cooperation through agreements like the Paris Accord.
+
+4. Evaluate the Output
+
+Clarity: Improved compared to first draft; structured and easy to follow.
+
+Creativity/Originality: Moderate – factual and educational.
+
+Accuracy: Correct, mentions key causes and solutions.
+
+Tone/Style: Educational, formal, and suitable for awareness campaigns or reports.
+
+5. Iterate for Improvement
+
+Prompt (With Semantic Filtering + Tail Generation):
+“Rewrite the article on climate change with a persuasive tone, include real-world examples, and end with a call to action.”
+
+Final Output (Polished Article):
+Climate change is no longer a distant threat – it is happening here and now. Rising global temperatures have already caused devastating floods in Pakistan, wildfires in Australia, and record-breaking heatwaves across Europe. The main culprits are human actions: burning coal and oil, clearing forests, and overusing natural resources.
+
+The effects are alarming – melting glaciers are raising sea levels, extreme droughts are threatening food security, and millions of species are at risk of extinction.
+
+But there is still hope. Countries are investing in renewable energy like solar and wind. Communities are adopting sustainable farming and waste management practices. Agreements such as the Paris Climate Accord show that global cooperation is possible.
+
+Each of us has a role to play – from conserving electricity and planting trees to reducing plastic use. If we act together today, we can still protect the planet for future generations. The time to act is now.
+
+## Final Deliverable
+
+First Draft: Simple explanation of climate change.
+
+Refined Draft: Structured article with causes, effects, and solutions.
+
+Final Version: Polished, persuasive article with examples and call to action.
 
 ## Deliverables:
 1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
